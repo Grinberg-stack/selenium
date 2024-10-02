@@ -1,6 +1,6 @@
-pip install ewquirements:
+pip install requirements:
 selenium
 chromedriver_autoinstaller
 
 
-this code is exrecise of automating facebook by selenium.
+this code is example of automating facebook by selenium.
