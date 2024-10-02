@@ -3,4 +3,4 @@ selenium
 chromedriver_autoinstaller
 
 
-this code is example of automating facebook by selenium.
+this code is exrecies of automating facebook by selenium.
